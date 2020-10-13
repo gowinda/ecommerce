@@ -1,0 +1,11 @@
+{
+    "/js/admin.js": "/js/admin.js",
+    "/js/app.js": "/js/app.js",
+    "/css/admin.css": "/css/admin.css",
+    "/css/home.css": "/css/home.css",
+    "/css/app.css": "/css/app.css",
+    "/js/home.js": "/js/home.js",
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/popper.js": "/js/popper.js",
+    "/js/vendor.js": "/js/vendor.js"
+}
